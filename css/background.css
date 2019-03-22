@@ -7,8 +7,39 @@ body {
   color: white;
 }
 
-
-
+.row {
+  opacity: 0.5;
+}
 .container {
+  width: 95%;
+}
 
+.container h2{
+  font-size: 20px;
+  color: black;
+}
+.container li {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+.container p{
+  font-size: 13px;
+}
+
+
+.story {
+  border: 2px solid white;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  margin-top: 320px;
+  opacity: 0.5;
+}
+
+#top {
+  opacity: 0.6;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 55px;
 }
