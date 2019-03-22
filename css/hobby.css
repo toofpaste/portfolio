@@ -16,9 +16,10 @@ body {
 }
 
 .panel h2{
+  color: black;
   font-family: 'Gochi Hand', cursive;
   font-size: 25px;
-  color: black;
+
 }
 .panel h3{
   font-family: 'Gochi Hand', cursive;
@@ -28,4 +29,3 @@ body {
   font-size: 17px;
   font-family: 'Gochi Hand', cursive;
   color: black;
-}
