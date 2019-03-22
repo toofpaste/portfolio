@@ -1,9 +1,32 @@
+body {
+  background-image: url("https://i.imgur.com/xPLCnzb.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.name{
+  font-style: italic;
+  font-weight: bolder;
+}
 .title h1 {
-  float: left;
+  font-size: 45px;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  color: Black;
+  font-weight: 900px;
+  opacity: 0.9;
 }
 
 .title img {
-  width: 150px;
-  height: 150px;
-  float: left;
+  width: 300px;
+  height: 300px;
+  border: 1px solid white;
+  margin-left: 34%;
+  margin-bottom: 40px;
+  opacity: 0.8;
+}
+.well {
+  opacity: 0.8;
+  font-weight: bold;
+  font-size: 17px;
 }
