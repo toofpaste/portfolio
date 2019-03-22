@@ -1,0 +1,9 @@
+.title h1 {
+  float: left;
+}
+
+.title img {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
