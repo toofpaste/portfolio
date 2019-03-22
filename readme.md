@@ -14,7 +14,7 @@ _As you'll see on the homepage I have 4 links at the bottom. They are(in order f
 * _Open the file and navigate to the index.html file_
 * _Open index.html inside of google chrome_
 * _or just visit the website directly at_
-* _https://www.toofpaste.github.io/project1_
+* _https://www.toofpaste.github.io/portfolio_
 
 
 ## Known Bugs
