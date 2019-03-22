@@ -37,3 +37,9 @@ body{
 .menu a{
   color: white;
 }
+
+
+.title img{
+  width: 30px;
+  height: 30px;
+}
