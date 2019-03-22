@@ -5,17 +5,25 @@ body {
   background-size: cover;
   background-position: right;
 }
+
+.logos img{
+  border: 3px solid transparent;
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  opacity: 0.7;
+}
 .name{
   font-style: italic;
   font-weight: bolder;
 }
 .title h1 {
+  opacity: 0.4;
   font-size: 45px;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Pacifico', cursive;
   text-align: center;
   color: Black;
   font-weight: 900px;
-  opacity: 0.9;
 }
 
 .title img {
@@ -28,8 +36,11 @@ body {
   margin-bottom: 40px;
   opacity: 0.8;
 }
-.well {
+.panel-body {
   opacity: 0.8;
   font-weight: bold;
   font-size: 17px;
+}
+.bg-success {
+  opacity: 0.8;
 }
