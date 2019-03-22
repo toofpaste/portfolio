@@ -7,6 +7,16 @@ body {
   color: white;
 }
 
+.home:last-of-type{
+  font-size: 35px;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  text-align: right;
+  float: right;
+  padding-right: 15px;
+}
+
+
 .row {
   opacity: 0.5;
 }

@@ -6,6 +6,16 @@ body {
   background-position: right;
 }
 
+
+a:last-of-type{
+  font-size: 35px;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  text-align: right;
+  float: right;
+  padding-right: 15px;
+}
+
 .logos img{
   border: 3px solid transparent;
   margin-left: 10px;
